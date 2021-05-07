@@ -1,0 +1,1 @@
+curl https://www.gutenberg.org/files/100/100-0.txt -o texts/shakespeare.txt
